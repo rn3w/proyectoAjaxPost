@@ -1,0 +1,37 @@
+
+
+body {
+	background-color: #99884f;
+	width: auto;
+	text-align: center;
+}
+.formulario {
+	background-color: #243649;
+	width: 35%;
+	margin: 15% 30%;
+	padding:20px 20px 20px 20px;
+	border-radius: 30px;
+}
+
+#clickme {
+	padding: 10px 10px 10px 10px;
+	width: 50%;
+	text-align: center;
+	border-radius: 15px 15px 15px 15px;
+	border-style: dashed;
+}
+
+#pass{
+	text-align: center;
+	border-radius: 15px 15px 15px 15px;
+	width: 55%;
+	padding: 10px 10px 10px 10px;
+	
+	border-style: dashed;
+	border-color: grey;
+	box-shadow: 100px;
+}
+#botonEnviar{
+	width: 30%;
+	border-radius: 10px;
+}
